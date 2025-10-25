@@ -10,7 +10,7 @@
     "iconUrl": "https://miniapp.vibecode.xyz/icon-256x256.png",
     "splashImageUrl": "https://miniapp.vibecode.xyz/splash-200x200.png",
     "splashBackgroundColor": "#0f1419",
-    "homeUrl": "https://miniapp.vibecode.xyz",
-    "webhookUrl": "https://miniapp.vibecode.xyz/api/farcaster/webhook"
+    "homeUrl": "https://app-b8e12044-ft1g.vercel.app",
+    "webhookUrl": "https://app-b8e12044-ft1g.vercel.app/api/webhook"
   }
 }
